@@ -91,3 +91,12 @@ _Language:_ **中文** | [English](https://github.com/gege-circle) | [日本語]
 如需进一步的讨论，请前往我们的 Reddit 论坛 **[r/gege_circle](https://reddit.com/r/gege_circle)** 获取更多信息。
 
 感谢大家一直以来对戈戈圈的关心与支持。
+
+## 关于此存储库的问题
+我们注意到有 GitHub 用户向我们反馈，指出此存储库的简介出现了很多不相关的关键词，导致在 GitHub 的搜索结果中频繁被错误关联。
+
+这些关键词并非由我们添加，因此我们尝试更改此存储库的简介，但 GitHub 却拒绝了我们的更改操作。
+
+我们推测这可能是 GitHub 的一个 Bug，目前我们已将此问题反馈给 GitHub 团队。
+
+非常抱歉给大家带来不好的体验。
