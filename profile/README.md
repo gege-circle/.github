@@ -91,3 +91,12 @@ Given that this repository has remained inactive for an extended period and the 
 For further discussions, please visit our Reddit sub **[r/gege_circle](https://reddit.com/r/gege_circle)**.
 
 Thank you for your unwavering care and support toward Gege circle.  
+
+## Regarding the issue with this repository
+We noticed that some GitHub users have feedback to us that about of this repository contains many unrelated keywords, which causes it to be frequently misassociated in GitHub search results.
+
+These keywords were not added by us. We attempted to update the repository about, but GitHub rejected our changes.
+
+We suspect this may be a GitHub bug, and we have already reported the issue to the GitHub team.
+
+We sincerely apologize for the poor experience this has caused.
